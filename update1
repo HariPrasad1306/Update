@@ -1,0 +1,24 @@
+Project Summary
+Digital Banking Transformation – Salesforce & nCino
+
+Role: Salesforce / nCino Developer
+
+Worked on implementation of Digital Banking and Commercial Lending solutions using Salesforce and nCino platforms.
+
+Configured and customized nCino lending modules including Loan Origination, Smart Checklist, Credit Memo, Collateral Management, and Document Manager.
+
+Developed scalable backend logic using Apex Classes, Triggers, Batch Apex, and SOQL to automate complex banking workflows.
+
+Built process automation using Flows, Process Builder, and Approval Processes to streamline loan processing and credit approvals.
+
+Designed custom objects, validation rules, and page layouts to support lending business requirements.
+
+Implemented security models using Profiles, Roles, Permission Sets, and Sharing Rules to maintain secure access control.
+
+Performed data migration and data validation using Data Loader and custom Apex scripts ensuring data integrity.
+
+Maintained 85%+ code coverage using Apex Test Classes to support reliable deployments and system stability.
+
+Worked closely with QA teams for UAT testing, defect resolution, and production deployments.
+
+Contributed to DevOps pipeline deployments using GitHub, Copado, and Salesforce CLI for continuous integration and delivery.
